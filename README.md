@@ -11,8 +11,7 @@ The primary objective of this challenge was to classify synthetic speech into:
 2. Unknown algorithms, requiring systems to generalize beyond the training data.
 
 The figure below illustrates the problem setup, where a system receives an input audio waveform and predicts the synthesis method or detects it as an unknown source:
-
-![SPCUP2022 Visualization](spcup_2022_img.png)
+<img src="spcup_2022_img.png" alt="SPCUP2022 Visualization" width="600"/>
 
 ---
 
