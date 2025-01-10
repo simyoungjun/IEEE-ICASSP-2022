@@ -12,7 +12,7 @@ The primary objective of this challenge was to classify synthetic speech into:
 
 The figure below illustrates the problem setup, where a system receives an input audio waveform and predicts the synthesis method or detects it as an unknown source:
 
-![SPCUP2022 Visualization](image.png)
+![SPCUP2022 Visualization](spcup_2022_img.png)
 
 ---
 
