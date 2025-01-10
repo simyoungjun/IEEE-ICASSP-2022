@@ -16,34 +16,18 @@ Participants were provided with audio recordings generated using multiple synthe
 
 ## 📂 Dataset
 
-- The dataset included **synthetically generated speech** using different synthesis techniques.
-- Split into training and evaluation sets, each containing multiple classes corresponding to synthesis methods.
-- Provided in a time-domain format, requiring feature extraction (e.g., **log-mel spectrograms**) for model training.
+The dataset for this challenge can be accessed at the following link:  
+[SPCUP2022 Dataset](https://doi.org/10.34740/kaggle/dsv/2866458)
 
 ---
 
-## 🛠️ Approach
+## 📄 Detailed Report
+For more detailed information about the dataset, approach, and results, refer to the official report included in this repository:  
+[SPCUP2022 Report (PDF)](SPCUP2022_report.pdf)
 
-1. **Feature Extraction**:
-   - Extracted **log-mel spectrograms** to represent speech signals in the time-frequency domain.
 
-2. **Model Architecture**:
-   - Employed **Convolutional Neural Networks (CNNs)** to capture spatial hierarchies in spectrograms.
-   - Used an ensemble of CNNs for improved robustness and generalization.
-
-3. **Semi-Supervised Learning**:
-   - Applied semi-supervised techniques to handle unknown synthesis methods and improve classification performance.
 
 ---
-
-## 📊 Results
-
-- **Best Accuracy**: Achieved state-of-the-art performance on strongly perturbed evaluation conditions.
-- **Equal Error Rate (EER)**: Demonstrated significant improvement compared to baseline models.
-
----
-
-
 
 ## 📄 References
 
