@@ -29,7 +29,7 @@ For more detailed information about the dataset, approach, and results, refer to
 
 ## 📊 Results
 
-Our method achieved <span style="color:red"> **4th place** </span>in the SPCUP2022 challenge, demonstrating robust performance in both clean and noisy conditions:
+Our method achieved <span style="color:blue; font-weight:bold;"> **4th place** </span> in the SPCUP2022 challenge, demonstrating robust performance in both clean and noisy conditions:
 - **Part 1 (Clean Data)**: Achieved **96.5% accuracy** on the evaluation set.
 - **Part 2 (Noisy Data)**: Achieved **95.5% accuracy** under noisy and distorted conditions.
 
