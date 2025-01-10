@@ -43,9 +43,14 @@ Participants were provided with audio recordings generated using multiple synthe
 
 ---
 
-## 🚀 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/SPCUP2022-Speech-Spoof.git
-   cd SPCUP2022-Speech-Spoof
+
+## 📄 References
+
+1. **Official Challenge Page**:  
+   [IEEE SPCUP2022](https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2022)  
+   - Provides official details about the challenge, including objectives, dataset composition, evaluation criteria, and participation guidelines.
+
+2. **Paper**:  
+   [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/abs/2309.08146)  
+   - Describes a CNN-based approach combined with semi-supervised learning techniques for synthetic speech classification, specifically tailored for SPCUP2022.
