@@ -26,10 +26,15 @@ For more detailed information about the dataset, approach, and results, refer to
 [SPCUP2022 Report (PDF)](2022_SPCUP_report.pdf)
 
 
+## 📊 Results
+
+Our method achieved **4th place** in the SPCUP2022 challenge, demonstrating robust performance in both clean and noisy conditions:
+- **Part 1 (Clean Data)**: Achieved **96.5% accuracy** on the evaluation set.
+- **Part 2 (Noisy Data)**: Achieved **95.5% accuracy** under noisy and distorted conditions.
 
 ---
 
-## 📄 References
+## References
 
 1. **Official Challenge Page**:  
    [IEEE SPCUP2022](https://signalprocessingsociety.org/community-involvement/ieee-signal-processing-cup-2022)  
