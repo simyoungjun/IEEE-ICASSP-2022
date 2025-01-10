@@ -23,7 +23,7 @@ The dataset for this challenge can be accessed at the following link:
 
 ## 📄 Detailed Report
 For more detailed information about the dataset, approach, and results, refer to the official report included in this repository:  
-[SPCUP2022 Report (PDF)](SPCUP2022_report.pdf)
+[SPCUP2022 Report (PDF)](2022_SPCUP_report.pdf)
 
 
 
