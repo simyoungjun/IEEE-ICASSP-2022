@@ -16,9 +16,8 @@ The figure below illustrates the problem setup, where a system receives an input
 ---
 
 ## 📂 Dataset
-
-The dataset for this challenge can be accessed at the following link:  
-[SPCUP2022 Dataset](https://doi.org/10.34740/kaggle/dsv/2866458)
+A dataset containing audio speech tracks generated with different speech synthesis techniques.
+[SPCUP2022 Dataset](https://www.kaggle.com/datasets/awsaf49/sp22-synthetic-dataset)
 
 ---
 
